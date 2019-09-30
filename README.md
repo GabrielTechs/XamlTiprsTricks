@@ -1,7 +1,7 @@
-## XamlTipsTricks
+# XamlTipsTricks
 Tips and tricks in xaml given by Xamgirl.
 
-# Tips & Tricks used
+## Tips & Tricks used
 In the app i used the following tips and tricks given by Xamgirl:
 1. String format.
 2. Static properties.
