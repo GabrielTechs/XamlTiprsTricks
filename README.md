@@ -9,3 +9,8 @@ In the app i used the following tips and tricks given by Xamgirl:
 4. Generic styles
 5. Simplify NameSpaces
 6. Line break.
+
+<p align="center"><img  width="200" src="MainPage.PNG"/></p>
+<p align="center"><img  width="200" src="HomePage.PNG"/></p>
+<p align="center"><img  width="200" src="InfoPage.PNG"/></p>
+<p align="center"><img  width="200" src="TrappedPage.PNG"/></p>
