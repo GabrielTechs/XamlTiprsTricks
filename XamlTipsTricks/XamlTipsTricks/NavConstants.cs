@@ -7,6 +7,7 @@ namespace XamlTipsTricks
     public static class AppConstants
     {
         public static string AppName = "TheXamlWell";
+        public static string Name = "";
     }
     public static class NavConstants
     {

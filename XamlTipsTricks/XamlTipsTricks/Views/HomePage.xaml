@@ -9,7 +9,7 @@
 
     <ContentPage.Content>
         <StackLayout>
-            <Label HorizontalOptions="CenterAndExpand">
+            <Label HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
                 <Label.FormattedText>
                     <FormattedString>
                         <Span Text="{Binding Source={x:Static constants:AppConstants.AppName}}"

@@ -8,15 +8,17 @@
     
     <ScrollView>
         <StackLayout VerticalOptions="Center">
-            <Label HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+            <Label HorizontalOptions="CenterAndExpand"
+                   VerticalOptions="CenterAndExpand">
                 <Label.FormattedText>
                     <FormattedString>
-                        <Span Text="Enter your name &#10;           Or &#10;  Any nick name &#10;"/>
-                        <Span Text="    You want" FontAttributes="Bold" FontSize="26"/>
+                        <Span Text="  Enter into &#10;    the App &#10;" />
+                        <Span Text="If you want"
+                              FontAttributes="Bold"
+                              FontSize="26" />
                     </FormattedString>
                 </Label.FormattedText>
             </Label>
-
 
             <Button Style="{StaticResource MainButton}"
                     Text="Go In!"
